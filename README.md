@@ -1,3 +1,2 @@
 # Hangman-Game
-# Using Python
-# Command Line
+Using Python - Command Line Interface
